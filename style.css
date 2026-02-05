@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+ nav a {
+    margin: 10px 120px 20px 10px; 
+    background-color: red; padding: 15px 15px 15px 15px; 
+ }
+
+main {
+    margin-top:20px; padding:150px; background-image: url("https://avatars.mds.yandex.net/i?id=2a85b4f4d87da06c0cbd5230ee9709170c25be4f-4935719-images-thumbs&n=13");
+}
